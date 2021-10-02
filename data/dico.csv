@@ -1,0 +1,40 @@
+Id;eui_id;tc_input;equipement_ouptut
+726;70b3d59ba0000465;1;Index
+727;70b3d59ba0000465;3;Index
+261;70b3d59ba0000605;0;Delta Pression
+140;70b3d59ba00005c9;0;Delta Pression
+262;70b3d59ba00005c3;0;Delta Pression
+142;70b3d59ba00005bc;0;Delta Pression
+141;70b3d59ba0000592;0;Delta Pression
+629;70b3d59ba0000467;0;Index
+125;70b3d59ba0000521;0;Index
+126;70b3d59ba0000521;1;Index
+127;70b3d59ba0000526;0;Index
+129;70b3d59ba0000520;0;Index
+121;70b3d59ba0000558;0;Index
+119;70b3d59ba0000528;0;Index
+123;70b3d59ba000052f;0;Index
+720;70b3d59ba0000465;2;Index
+721;70b3d59ba0000465;4;Index
+723;70b3d59ba0000465;0;Index
+724;70b3d59ba0000465;5;Index
+258;70b3d59ba0000b0f;1;Humidité
+259;70b3d59ba0000b0f;0;Température
+377;70b3d59ba0000ba5;1;Humidité
+378;70b3d59ba0000ba5;0;Température
+256;70b3d59ba0000980;1;Humidité
+257;70b3d59ba0000980;0;Température
+135;70b3d59ba0000987;1;Humidité
+138;70b3d59ba00009b6;1;Humidité
+139;70b3d59ba00009b6;0;Température
+254;70b3d59ba0000b31;1;Humidité
+255;70b3d59ba0000b31;0;Température
+136;70b3d59ba00009a0;1;Humidité
+137;70b3d59ba00009a0;0;Température
+246;70b3d59ba0000414;0;Température
+247;70b3d59ba0000414;1;Température
+250;70b3d59ba00003c7;0;Température
+251;70b3d59ba00003c7;1;Température
+244;70b3d59ba0000422;0;Température
+245;70b3d59ba0000422;1;Température
+252;70b3d59ba00003d0;0;Température
